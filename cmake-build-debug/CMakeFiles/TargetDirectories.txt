@@ -1,0 +1,3 @@
+C:/Users/wojte/Desktop/do_CV/TSP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wojte/Desktop/do_CV/TSP/cmake-build-debug/CMakeFiles/tsp.dir
+C:/Users/wojte/Desktop/do_CV/TSP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
